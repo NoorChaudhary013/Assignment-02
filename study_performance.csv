@@ -1,0 +1,11 @@
+ID,name,gender,math_score,reading_score,writing_score,cgpa
+1,Noor,Female,80,90,98,3.08
+2,Bisma,Female,75,65,92,3.01
+3,Rimsha,Female,60,75,62,3.12
+4,Mahnoor,Female,85,82,78,3.16
+5,Khizra,Female,70,62,68,3.17
+6,Ayesha,Female,55,52,82,2.1
+7,Ali,Male,72,73,90,2.7
+8,Waseem,Male,46,74,70,2.55
+9,Ahmed,Male,80,78,58,3.65
+10,Subhan,Male,82,80,62,3.22
